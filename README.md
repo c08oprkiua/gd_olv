@@ -1,2 +1,2 @@
 # gd_olv
-Godot OLV Support. A reimplementation of the the nn_olv library.
+This is a reimplementation of the the nn_olv library in Godot (4), allowing easier interaction with Miiverse related services in Godot based games and applications.
