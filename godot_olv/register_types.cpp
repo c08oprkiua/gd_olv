@@ -11,6 +11,7 @@ void initialize_godot_olv_module(ModuleInitializationLevel p_level) {
 	ClassDB::register_class<OliveCommunityData>();
 	ClassDB::register_class<OlivePostData>();
 	ClassDB::register_class<OliveTopicData>();
+	//ClassDB::register_class<Olive__Data>();
 }
 
 void uninitialize_godot_olv_module(ModuleInitializationLevel p_level) {
